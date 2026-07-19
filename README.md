@@ -1,6 +1,6 @@
 # FC Barcelona Match Analytics — Excel Dashboard
 
-![FC Barcelona project cover](Downloads/cover.png)
+![FC Barcelona project cover](images/cover.png)
 
 ## Project Overview
 
