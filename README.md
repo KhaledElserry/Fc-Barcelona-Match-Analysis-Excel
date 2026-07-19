@@ -1,7 +1,5 @@
 # FC Barcelona Match Analytics — Excel Dashboard
 
-![FC Barcelona project cover](images/cover.png)
-
 ## Project Overview
 
 This project analyzes **562 FC Barcelona matches** played between **11 August 2015 and 25 May 2025**. The Excel solution combines data cleaning, dimensional modeling, PivotTables, slicers, KPI cards, and interactive dashboard pages to explore match results, goals, possession, attendance, formations, competitions, seasons, venues, opponents, and captains.
@@ -135,9 +133,9 @@ The match-level dataset is included inside the workbook. The original external d
 
 ## Author
 
-**Mahmoud Ahmed**
+**Khaled Elserry**
 
-- GitHub: [Nagato1pain2](https://github.com/Nagato1pain2)
-- LinkedIn: [Mahmoud Ahmed — Data](https://www.linkedin.com/in/mahmoud-ahmed-data/)
-- Email: [mahmoudahmed1147@gmail.com](mailto:mahmoudahmed1147@gmail.com)
-- Phone: 01010700943
+- GitHub: [KhaledElserry](https://github.com/KhaledElserry)
+- LinkedIn: [Khaled Elserry](https://www.linkedin.com/in/khaledelserry/)
+- Email: [khaledomarabdelmoneam@gmail.com](mailto:khaledomarabdelmoneam@gmail.com)
+- Phone: [+201091827693](tel:+201091827693)
